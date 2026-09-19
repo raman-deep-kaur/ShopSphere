@@ -1,12 +1,12 @@
-# 🛒 ShopSphere - Full Stack E-Commerce Web Application
+# ShopSphere - Full Stack E-Commerce Web Application
 
 A modern Full Stack E-Commerce web application built using **Spring Boot**, **ReactJS**, **MySQL**, and **JWT Authentication**. ShopSphere provides a complete online shopping experience with secure authentication, product management, shopping cart, order management, and an admin dashboard.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 👤 User Features
+### User Features
 - User Registration & Login
 - JWT Authentication
 - Secure Role-Based Authorization
@@ -25,7 +25,7 @@ A modern Full Stack E-Commerce web application built using **Spring Boot**, **Re
 
 ---
 
-### 👨‍💼 Admin Features
+### Admin Features
 - Admin Login
 - Dashboard Overview
 - Add New Products
@@ -39,7 +39,7 @@ A modern Full Stack E-Commerce web application built using **Spring Boot**, **Re
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - ReactJS
@@ -69,7 +69,7 @@ A modern Full Stack E-Commerce web application built using **Spring Boot**, **Re
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ShopSphere/
@@ -95,7 +95,7 @@ ShopSphere/
 
 ---
 
-## ✨ Modules
+## Modules
 
 ### Authentication Module
 - Register
@@ -137,7 +137,7 @@ ShopSphere/
 
 ---
 
-## 🔒 Authentication
+## Authentication
 
 JWT-based authentication is implemented.
 
@@ -213,7 +213,7 @@ http://localhost:3000
 
 ---
 
-## 🗄️ Database
+## Database
 
 Create MySQL Database
 
@@ -231,7 +231,7 @@ with your database username and password.
 
 ---
 
-## 📡 REST APIs
+## REST APIs
 
 ### Authentication
 
@@ -270,7 +270,7 @@ with your database username and password.
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Wishlist
 - Product Reviews & Ratings
@@ -284,7 +284,7 @@ with your database username and password.
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 - Spring Boot REST APIs
 - JWT Authentication
@@ -301,22 +301,4 @@ with your database username and password.
 
 ---
 
-## 👨‍💻 Author
 
-**Yogesh Kachare**
-
-📧 Email: yogeshkachare43@gmail.com
-
-📱 Mobile: +91 9309816198
-
-💼 Java Full Stack Developer
-
-🔗 LinkedIn: *(Add Your LinkedIn URL)*
-
-🔗 GitHub: *(Add Your GitHub Profile URL)*
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
